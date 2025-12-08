@@ -1,0 +1,5 @@
+/* src/components/Greeting/style.module.css */
+.greeting_wrp{
+  text-align: left;
+  padding: 16px;
+}
